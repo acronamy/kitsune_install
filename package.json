@@ -1,0 +1,54 @@
+{
+  "_args": [
+    [
+      "kitsune_install/",
+      "/home/adam/node-www/kitsune-cms-1.1"
+    ],
+    [
+      "node_modules/kitsune_install/",
+      "/home/adam/node-www/kitsune-cms-1.1"
+    ]
+  ],
+  "_from": "node_modules/kitsune_install",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/kitsune_install",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": null,
+    "raw": "node_modules/kitsune_install/",
+    "rawSpec": "node_modules/kitsune_install/",
+    "scope": null,
+    "spec": "/home/adam/node-www/kitsune-cms-1.1/node_modules/kitsune_install",
+    "type": "directory"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "file:node_modules/kitsune_install",
+  "_shasum": "7dbf37ba633723a20b03760e9761ac4a8c261b25",
+  "_shrinkwrap": null,
+  "_spec": "node_modules/kitsune_install/",
+  "_where": "/home/adam/node-www/kitsune-cms-1.1",
+  "author": "Adam Crockett",
+  "dependencies": {},
+  "description": "A temporary sub app that enables a graphical user interface to install kitsune. this kit will self destruct as soon as the system is installed.",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "kitsune_install",
+  "optionalDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acronamy/kitsune_install.git"
+  },
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_install/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_install#readme"
+}
