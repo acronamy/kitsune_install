@@ -1,10 +1,13 @@
 {
   "_args": [
     [
+<<<<<<< HEAD
       "git+https://github.com/acronamy/kitsune_install.git",
       "/home/adam/node-www/kitsune-cms-1.1/kitsune"
     ],
     [
+=======
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
       "kitsune_install/",
       "/home/adam/node-www/kitsune-cms-1.1"
     ],
@@ -13,13 +16,18 @@
       "/home/adam/node-www/kitsune-cms-1.1"
     ]
   ],
+<<<<<<< HEAD
   "_from": "git+https://github.com/acronamy/kitsune_install.git",
   "_id": "kitsune_install@1.0.0",
+=======
+  "_from": "node_modules/kitsune_install",
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
   "_inCache": true,
   "_installable": true,
   "_location": "/kitsune_install",
   "_phantomChildren": {},
   "_requested": {
+<<<<<<< HEAD
     "hosted": {
       "directUrl": "https://raw.githubusercontent.com/acronamy/kitsune_install/master/package.json",
       "gitUrl": "git://github.com/acronamy/kitsune_install.git",
@@ -35,11 +43,20 @@
     "scope": null,
     "spec": "git+https://github.com/acronamy/kitsune_install.git",
     "type": "hosted"
+=======
+    "name": null,
+    "raw": "node_modules/kitsune_install/",
+    "rawSpec": "node_modules/kitsune_install/",
+    "scope": null,
+    "spec": "/home/adam/node-www/kitsune-cms-1.1/node_modules/kitsune_install",
+    "type": "directory"
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
   },
   "_requiredBy": [
     "#USER",
     "/"
   ],
+<<<<<<< HEAD
   "_resolved": "git+https://github.com/acronamy/kitsune_install.git#e77bd4fbb932ad77eba9d673241171869f78466f",
   "_shasum": "f5f5c902b87f333712ec0fd0808355170f2c6804",
   "_shrinkwrap": null,
@@ -56,18 +73,43 @@
   "devDependencies": {},
   "gitHead": "e77bd4fbb932ad77eba9d673241171869f78466f",
   "homepage": "https://github.com/acronamy/kitsune_install#readme",
+=======
+  "_resolved": "file:node_modules/kitsune_install",
+  "_shasum": "7dbf37ba633723a20b03760e9761ac4a8c261b25",
+  "_shrinkwrap": null,
+  "_spec": "node_modules/kitsune_install/",
+  "_where": "/home/adam/node-www/kitsune-cms-1.1",
+  "author": "Adam Crockett",
+  "dependencies": {},
+  "description": "A temporary sub app that enables a graphical user interface to install kitsune. this kit will self destruct as soon as the system is installed.",
+  "devDependencies": {},
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
   "license": "ISC",
   "main": "index.js",
   "name": "kitsune_install",
   "optionalDependencies": {},
+<<<<<<< HEAD
   "readme": "ERROR: No README data found!",
   "readmeFilename": "readme.md",
+=======
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0",
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
   "repository": {
     "type": "git",
     "url": "git+https://github.com/acronamy/kitsune_install.git"
   },
+<<<<<<< HEAD
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "version": "1.0.0"
+=======
+  "bugs": {
+    "url": "https://github.com/acronamy/kitsune_install/issues"
+  },
+  "homepage": "https://github.com/acronamy/kitsune_install#readme"
+>>>>>>> e77bd4fbb932ad77eba9d673241171869f78466f
 }
